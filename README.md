@@ -28,7 +28,7 @@
 
 ### 📌 Featured Projects
 
-- 🔤 [Khasi-English Transformer MT](https://github.com/ontiwell/khasi-transformer) – Custom Transformer model for Khasi ↔ English with BLEU & chrF evaluation  
+- 🔤 [Khasi-English Transformer MT](https://github.com/khongthaw23/Machine_translation_khasi_to_english) – Custom Transformer model for Khasi ↔ English with BLEU & chrF evaluation  
 - 🌐 [IndicTrans2 Fine-Tuned](https://github.com/ontiwell/indictrans2-khasi) – IndicTrans2 adapted to Khasi using WMT24 + monolingual data  
 - 🧠 [Khasi-BERT (WIP)](https://github.com/ontiwell/khasi-bert) – Training a BERT-style LM for Khasi using masked language modeling  
 
