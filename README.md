@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ontiwell Khongthaw</h1>
-<h3 align="center">M.Tech @ IIT Palakkad | Low-Resource NLP Researcher | Khasi ↔ English MT</h3>
+<h3 align="center">M.Tech @ IIT Palakkad</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ontiwell&label=Profile%20views&color=0e75b6&style=flat" alt="ontiwell" />
@@ -11,7 +11,7 @@
 - 🌱 I’m exploring **IndicTrans2**, **NLLB**, and **SentencePiece** for subword tokenization  
 - 🧠 Passionate about **low-resource NLP**, **morphologically rich languages**, and **evaluation metrics** like BLEU, chrF & BERTScore  
 - 📚 Recent project: **Fine-tuning IndicTrans2 on the WMT24 Khasi-English dataset**  
-- ⚡ Fun fact: Khasi is one of the few Austroasiatic languages written in Latin script!
+- 
 
 ---
 
@@ -21,8 +21,10 @@
 ![PyTorch](https://img.shields.io/badge/PyTorch-red.svg)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange.svg)
 ![Transformers](https://img.shields.io/badge/HuggingFace-Transformers-yellow)
+![LangChain](https://img.shields.io/badge/LangChain-%2300B894.svg)
 ![Linux](https://img.shields.io/badge/Linux-Ubuntu-informational)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+
 
 ---
 
@@ -30,7 +32,8 @@
 
 - 🔤 [Khasi-English Transformer MT](https://github.com/khongthaw23/Machine_translation_khasi_to_english) – Custom Transformer model for Khasi ↔ English with BLEU & chrF evaluation  
 - 🌐 [IndicTrans2 Fine-Tuned](https://github.com/ontiwell/indictrans2-khasi) – IndicTrans2 adapted to Khasi using WMT24 + monolingual data  
-- 🧠 [Khasi-BERT (WIP)](https://github.com/ontiwell/khasi-bert) – Training a BERT-style LM for Khasi using masked language modeling  
+- 🧠 [Khasi-BERT (WIP)](https://github.com/ontiwell/khasi-bert) – Training a BERT-style LM for Khasi using masked language modeling
+- Buidling a web app for a Football Club[https://github.com/khongthaw23/Pynursla_united_web_app]
 
 ---
 
@@ -41,14 +44,7 @@
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=khongthaw23&theme=github-compact" alt="activity graph" />
 </p>
-
----
-
-### ✍️ Upcoming Blogs
-
-- 🧪 Comparing BLEU, chrF, and BERTScore in Khasi ↔ English MT  
-- 🔍 Error analysis of MT outputs from Transformer, IndicTrans2, and IBM models  
-- 🧵 How subword tokenization improves performance for low-resource MT  
+  
 
 ---
 
